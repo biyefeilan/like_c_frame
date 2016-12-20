@@ -1,0 +1,88 @@
+*{
+	padding:0px;
+	margin:0px;
+}
+html{
+	background:#FFF;
+}
+body{
+	font:12px Verdana,Arial,Tahoma;
+}
+img{
+	border:none;
+}
+a {
+	text-decoration:none;
+}
+#middle a{
+	color:#696;
+}
+#middle a:hover{
+	text-decoration:underline;
+}
+ul{
+	list-style:none;
+}
+input,select,button{
+	font:12px Verdana,Arial,Tahoma;
+	vertical-align:middle;
+}
+#page{
+	width: 956px;
+	margin: 0 auto;
+}
+#header{
+	width: 100%;
+	height: 60px;
+	border-bottom: 1px solid #BBB;
+}
+#logo{
+	width: 200px;
+	height: 60px;
+	float: left;
+}
+#logo .name{
+	margin-top:5px;
+	font-size: 26px;
+	font-weight:bold;
+	color: #f00;
+}
+#logo .domain{
+	font-size: 16px;
+}
+#footer{
+	margin: 10px 0;
+	border-top: 1px solid #BBB;
+	text-align: center;
+}
+#footer .copyright{
+	margin-top:5px;
+	color: #666;
+}
+#middle .funnybox{
+	text-align: center;
+	margin-top: 50px;
+}
+#middle h1{
+	font-weight: bold;
+	font-size: 26px;
+}
+#middle .content{
+	margin-top: 10px;
+}
+#middle .page_guide{
+	font-size: 20px;
+	color: #000;
+}
+
+
+#middle .artbox{
+	margin-top: 10px;
+}
+#middle .art_title{
+	font-size: 14px;
+	line-height: 2em;
+}
+#middle .art_desc{
+	line-height: 1.5em;
+}
